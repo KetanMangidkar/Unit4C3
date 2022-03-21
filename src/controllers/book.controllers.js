@@ -1,6 +1,6 @@
 const express = require("express");
 
-const Book = require("../models/book.models");
+const user = require("../models/book.models");
 
 const router = express.Router();
 
